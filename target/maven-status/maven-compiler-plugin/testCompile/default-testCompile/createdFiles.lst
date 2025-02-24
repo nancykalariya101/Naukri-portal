@@ -1,0 +1,3 @@
+runners\Testng.class
+hooks\Hooks.class
+stepDefinitions\AutoUpdate.class
