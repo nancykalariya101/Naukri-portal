@@ -17,9 +17,9 @@ public class AutoUpdate {
 	private WebDriver driver;
     private WebDriverWait wait;
     
-    private final String EMAIL = "tusharsjadhav60@gmail.com";
-    private final String PASSWORD = "JayJay_Shakar1919";
-    private final String RESUME_PATH = "E:\\Tushar_Jadhav_QA.pdf"; 
+    private final String EMAIL = "nancykalariya101@gmail.com";
+    private final String PASSWORD = "@4559balelno";
+    private final String RESUME_PATH = "D:\Nancy Resume (1).pdf"; 
 	
 	@Given("the user is logged into the Nokri portal")
 	public void the_user_is_logged_into_the_nokri_portal() {
